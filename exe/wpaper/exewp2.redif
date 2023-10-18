@@ -737,5 +737,24 @@ Creation-Date: 2023-10-14
 File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2313.pdf
 File-Format: Application/pdf
 Number: 2313
-Keywords: gender; legal origin; accounting disclosure
+Keywords: gender, legal origin, accounting disclosure
 Handle: RePEc:exe:wpaper:2313
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Climent Quintana-Domeque
+Author-Name-First: Climent
+Author-Name-Last: Quintana-Domeque
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Jingya Zeng
+Author-Name-First: Jingya
+Author-Name-Last: Zeng
+Author-Workplace-Name: Department of Economics, University of Exeter
+Title: COVID-19 and mental health: natural experiments of the costs of lockdowns
+Abstract: The COVID-19 pandemic has profoundly impacted the world, affecting not only physical health and the economy but also mental well-being. This chapter provides an investigation of the causal link between lockdown measures - a significant public health intervention - and mental health. Our examination begins with an overview of the mental health landscape across various countries prior to the COVID-19 pandemic. We then summarize key insights from a range of surveys, reviews, and meta-analyses concerning the pandemic's effect on mental health. Further, we delve into a detailed analysis of three noteworthy studies that employ natural experiments to investigate the effects of lockdowns on mental health in different countries. Despite their differing research designs, these studies converge on the conclusion that lockdowns have had a detrimental impact on mental health. The intensity of this effect, however, varies among different population groups. This suggests that lockdown measures have affected certain segments of the population more profoundly than others.
+Creation-Date: 2023-10-18
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2314.pdf
+File-Format: Application/pdf
+Number: 2314
+Classification-JEL: I1, J1
+Keywords: COVID-19, mental distress, natural experiments
+Handle: RePEc:exe:wpaper:2314
