@@ -758,3 +758,22 @@ Number: 2314
 Classification-JEL: I1, J1
 Keywords: COVID-19, mental distress, natural experiments
 Handle: RePEc:exe:wpaper:2314
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Miguel A. Fonseca
+Author-Name-First: Miguel
+Author-Name-Last: Fonseca
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Ashley McCrea
+Author-Name-First: Ashley
+Author-Name-Last: McCrea
+Author-Workplace-Name: Department of Economics, University of Exeter
+Title: The role of shortlisting in shifting gender beliefs on performance: experimental evidence
+Abstract: In labour markets, women are often underrepresented relative to men. This underrepresentation may be due to inaccurate beliefs about ability across genders. Inaccurate beliefs might cause a sampling problem: to have accurate beliefs about a group, one must first collect information about that group. However, inaccurate beliefs may persist due to biased belief updating. We run a stylized hiring experiment to disentangle these two effects. We ask participants to create shortlists from a male and a female pool of workers and give them feedback on the skill of those they shortlist. Based on that information, participants hire workers, and provide us with their beliefs about the distribution of skills in the male and female pots. We study how recruiters update their beliefs as a function of their past shortlisting behaviour, and how they shortlist given their beliefs. As expected, participants were more likely to sample from the pool with the highest subjective mean quality (on average men) and lowest subject variance. Participants were not Bayesian updaters but there were no gender-specific biases in updating. Sampling more from a pool and, somewhat surprisingly, greater time spent engaging in sampling behaviour yield more accurate beliefs.
+Creation-Date: 2023-11-07
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2315.pdf
+File-Format: Application/pdf
+Number: 2315
+Classification-JEL: C91, D83, J71, J78, M51
+Keywords: inaccurate statistical discrimination, belief updating, gender, shortlisting, chess
+Handle: RePEc:exe:wpaper:2315
