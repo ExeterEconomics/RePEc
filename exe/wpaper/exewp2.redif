@@ -777,3 +777,26 @@ Number: 2315
 Classification-JEL: C91, D83, J71, J78, M51
 Keywords: inaccurate statistical discrimination, belief updating, gender, shortlisting, chess
 Handle: RePEc:exe:wpaper:2315
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Nisvan Erkal
+Author-Name-First: Nisvan
+Author-Name-Last: Erkal
+Author-Workplace-Name: Department of Economics, University of Melbourne
+Author-Name: Lata Gangadharan
+Author-Name-First: Lata
+Author-Name-Last: Gangadharan
+Author-Workplace-Name: Department of Economics, Monash University
+Author-Name: Boon Han Koh
+Author-Name-First: Boon Han
+Author-Name-Last: Koh
+Author-Workplace-Name: Department of Economics, University of Exeter
+Title: Discrimination in Evaluation Criteria: The Role of Beliefs versus Outcomes
+Abstract: Using incentivized experiments, we investigate whether different criteria are used in evaluating male and female leaders when outcomes are determined by unobservable choices and luck. Evaluators form beliefs about leaders' choices and make discretionary payments. We find that while payments to male leaders are determined by both outcomes and evaluators' beliefs, those to female leaders are determined by outcomes only. We label this new source of gender bias as the gender criteria gap. Our findings imply that high outcomes are necessary for women to get bonuses, but men can receive bonuses for low outcomes as long as evaluators hold them in high regard.
+Creation-Date: 2023-12-18
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2316.pdf
+File-Format: Application/pdf
+Number: 2316
+Classification-JEL: C92, D91, J71
+Keywords: gender gaps, discrimination, evaluation criteria, biases in beliefs, outcome bias, social preferences, laboratory experiments
+Handle: RePEc:exe:wpaper:2316
