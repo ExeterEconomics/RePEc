@@ -880,15 +880,15 @@ Author-Name: Climent Quintana-Domeque
 Author-Name-First: Climent
 Author-Name-Last: Quintana-Domeque
 Author-Workplace-Name: Department of Economics, University of Exeter
-Title: Non-Fatal Strangulation Laws and Intimate Partner Homicides
-Abstract:  Do non-fatal strangulation laws save lives? Non-fatal strangulation (NFS) is a common and dangerous form of intimate partner violence (IPV) and a predictor of homicide, yet it was historically neglected by the criminal justice system. Since the year 2000, most U.S. states have enacted laws enlisting NFS as a standalone criminal offense. We compile a novel dataset on state NFS statutes and link it to the FBI Supplementary Homicide Reports from 1990 to 2019 to estimate the causal effects of these laws on IPH rates. Using a difference-in-differences strategy, and an estimator that accounts for staggered adoption and treatment heterogeneity, we find that NFS laws led to significant reductions in IPH rates. We estimate that these laws reduce female-victim IPH by 14% and male-victim IPH by 36%, among victims aged 18-34. No significant effects are observed for victims 50 and above or for homicides committed by strangers. Event-study estimates support the parallel trends assumption. Our findings suggest that NFS laws can disrupt the escalation of IPV and reduce lethal outcomes.
+Title: Disrupting Violence, Protecting Lives: Strangulation Laws and Intimate Partner Homicides
+Abstract: Non-fatal strangulation (NFS) is a dangerous form of intimate partner violence (IPV) and a strong predictor of homicide. We collect information on state NFS statutes and link them to FBI Supplementary Homicide Reports, 1990-2019, to estimate their causal effects on intimate partner homicide (IPH) rates. Using the two-stage difference-in-differences estimator (Gardner et al., 2025), which accommodates staggered adoption and heterogeneity, we find that NFS laws reduce female-victim IPH by 14% and male-victim IPH by 27% among those aged 18-49, with no detectable effects for those aged 50-70 or for homicides committed by strangers. Event-study profiles show flat pre-trends and sustained declines following enactment of NFS laws. Using the National Incident-Based Reporting System data, we estimate that NFS laws increase the share of IPV incidents classified as aggravated assaults - especially when the victim is a woman - and increase arrests conditional on IPV aggravated assaults, providing a two-step mechanism by which NFS laws disrupt the escalation of violence and protect lives.
 Creation-Date: 2025-06-27
-Revision-Date: 2025-07-11
+Revision-Date: 2025-11-19
 File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2501.pdf
 File-Format: Application/pdf
 Number: 2501
 Classification-JEL: C21, I18, J12, J16, J78, K14, K42, N92
-Keywords: intimate partner violence, gender, difference-in-differences, criminal justice policy
+Keywords: intimate partner violence, abuse, gender, two-stage difference-in-differences, criminal justice policy, IPV aggravated assaults, arrests
 Handle: RePEc:exe:wpaper:2501
 
 Template-Type: ReDIF-Paper 1.0
