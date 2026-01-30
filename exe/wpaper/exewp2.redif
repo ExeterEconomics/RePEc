@@ -924,3 +924,22 @@ Number: 2503
 Classification-JEL: Z10, Z13, N71, N72, R49
 Keywords: markets, trade, cooperation, culture, universalism, tolerance, trust
 Handle: RePEc:exe:wpaper:2503
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Brit Grosskopf
+Author-Name-First: Brit
+Author-Name-Last: Grosskopf
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Yangfei Lin
+Author-Name-First: Yangfei
+Author-Name-Last: Lin
+Author-Workplace-Name: School of Economics, Zhejiang University
+Title: Leader Gender, Participation, and the Quality of Contributions in Groups
+Abstract: In a controlled laboratory experiment, we study how leader gender affects both the willingness of group members to contribute ideas and the informational quality of those contributions. Participants are randomly assigned to groups of three, consisting of one merit-based leader and two group members. Group members submit answers to a general knowledge task and report their willingness - on a scale from one to five - to have their answer selected as the group response. In the baseline condition, gender information is not revealed; in the treatment condition, the gender of the leader and group members is disclosed. We find that men become significantly more willing to contribute when led by a female leader, while women’s willingness does not depend on leader gender. However, this increase in male participation is accompanied by a decline in the accuracy threshold at which men are willing to step forward. In contrast, women raise their accuracy threshold under female leadership, contributing only when they are highly confident in the correctness of their answers. As a result, conditional on stating the highest willingness level, men are substantially less accurate under female leadership, whereas women are more accurate. We refer to this asymmetric pattern as a sisterhood effect. We find no corresponding brotherhood effect: men do not exhibit higher conditional accuracy under male leadership relative to the no-gender benchmark. On the selection side, leaders strongly weight stated willingness when choosing whose answer represents the group. When gender is revealed, female leaders are more likely to select female group members, whereas male leaders show no systematic gender-based selection. This selection behaviour mitigates the lower quality of highly willing male contributions under female leadership and preserves group performance. Overall, leader gender shapes collective decision-making not by altering underlying ability, but by changing how private knowledge is translated into expressed willingness and how that willingness is filtered into group choices.
+Creation-Date: 2026-01-08
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2601.pdf
+File-Format: Application/pdf
+Number: 2601
+Classification-JEL: C91, D83, J16
+Keywords: leader gender, information aggregation, participation decisions, confidence thresholds, group performance
+Handle: RePEc:exe:wpaper:2601
