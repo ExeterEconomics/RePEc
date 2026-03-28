@@ -943,3 +943,30 @@ Number: 2601
 Classification-JEL: C91, D83, J16
 Keywords: leader gender, information aggregation, participation decisions, confidence thresholds, group performance
 Handle: RePEc:exe:wpaper:2601
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Mallory Avery
+Author-Name-First: Mallory
+Author-Name-Last: Avery
+Author-Workplace-Name: Department of Economics, Monash University
+Author-Name: Edwin Ip
+Author-Name-First: Edwin
+Author-Name-Last: Ip
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Andreas Leibbrandt
+Author-Name-First: Andreas
+Author-Name-Last: Leibbrandt
+Author-Workplace-Name: Department of Economics, Monash University
+Author-Name: Joseph Vecci
+Author-Name-First: Joseph
+Author-Name-Last: Vecci
+Author-Workplace-Name: Department of Economics, University of Gothenburg
+Title: A Brave New World of Hiring: A Natural Field Experiment on How Asynchronous Interviews and AI Assessment Reshape Recruitment
+Abstract: Recent technological advancements are reshaping pathways to employment by automating the interview process. Asynchronous interviews, in which job applicants submit answers to interview questions via an online platform without interacting with an interviewer, are replacing more traditional face-to-face job interviews. At the same time, AI algorithms are now widely used to assess these interview answers. In this paper, we use a field experiment to comprehensively study how these new technologies affect applicants and employers in the recruitment process. Over 3,000 job applicants are randomized into asynchronous audio or video interviews, live online interviews, and a control group. Their job interviews are then assessed by both professional recruiters and a commercial AI recruitment tool used by most Fortune 100 companies. We find that asynchronous interviews cause an over 50% decrease in application continuation, including among the most qualified applicants, and that this decline is largest for women. A complementary vignette experiment provides evidence that this deterrence is driven by perceptions about the competitiveness and fairness of the recruitment process. In terms of assessments, we find that the AI evaluation tool scores women and underrepresented racial minorities higher than human evaluators, while the opposite is true for men, Whites and Asians. We track our applicants' subsequent labor market outcomes and find that the AI assessment tool predicts subsequent employment success substantially better than human recruiters, suggesting that AI captures soft skills and potential that humans overlook. In addition, we provide evidence that, unlike AI, human recruiters' assessments suffer from multiple cognitive biases. Our findings provide some of the first key evidence on how recent technological advances are transforming the hiring process.
+Creation-Date: 2026-03-25
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2602.pdf
+File-Format: Application/pdf
+Number: 2602
+Classification-JEL: C93, J23, J71, J78
+Keywords: technological change, artificial intelligence, gender, field experiment
+Handle: RePEc:exe:wpaper:2602
