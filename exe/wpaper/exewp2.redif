@@ -970,3 +970,26 @@ Number: 2602
 Classification-JEL: C93, J23, J71, J78
 Keywords: technological change, artificial intelligence, gender, field experiment
 Handle: RePEc:exe:wpaper:2602
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Sebastian Kripfganz
+Author-Name-First: Sebastian
+Author-Name-Last: Kripfganz
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Mehdi Hosseinkouchack
+Author-Name-First: Mehdi
+Author-Name-Last: Hosseinkouchack
+Author-Workplace-Name: EBS Business School, EBS University
+Author-Name: Matei Demetrescu
+Author-Name-First: Matei
+Author-Name-Last: Demetrescu
+Author-Workplace-Name: Department of Statistics, TU Dortmund University
+Title: Serial-correlation testing in error component models with moderately small T
+Abstract: When testing for unrestricted serial correlation in linear panel data models, the number of moment restrictions under the null hypothesis of no such correlation increases quadratically in the number of time periods T. Portmanteau tests designed for fixed T can quickly lose power even for time horizons that are typically still considered as small. To circumvent this problem, we propose refinements motivated by strategies to reduce the number of instruments in the estimation of dynamic panel data models. Furthermore, we propose a new test based on covariances between first differences and encompassing longer differences. Our test yields substantial power improvements against moving-average and autoregressive alternatives. It retains high power under random-walk alternatives and high variances of the group-specific error component. Moreover, we demonstrate that serial-correlation tests based on regression residuals can suffer from severe power losses when the initial estimator is inconsistent under the alternative. Finally, we re-analyze a widely used data set for the estimation of dynamic employment equations. Contrary to previous evidence, but in line with our power comparisons, our proposed test uncovers statistical evidence for the presence of serial correlation. Taken at face value, this in turn implies that the original regression results suffer from estimator inconsistency.
+Creation-Date: 2026-04-02
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2603.pdf
+File-Format: Application/pdf
+Number: 2603
+Classification-JEL: C12, C23, C52
+Keywords: serial correlation, specification testing, panel data, dimensionality reduction, first differences, long differences
+Handle: RePEc:exe:wpaper:2603
