@@ -993,3 +993,30 @@ Number: 2603
 Classification-JEL: C12, C23, C52
 Keywords: serial correlation, specification testing, panel data, dimensionality reduction, first differences, long differences
 Handle: RePEc:exe:wpaper:2603
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Lisa Cherkassky
+Author-Name-First: Lisa
+Author-Name-Last: Cherkassky
+Author-Workplace-Name: Law School, University of Exeter
+Author-Name: Alaiba Faheem
+Author-Name-First: Alaiba
+Author-Name-Last: Faheem
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Sonia Oreffice
+Author-Name-First: Sonia
+Author-Name-Last: Oreffice
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Climent Quintana-Domeque
+Author-Name-First: Climent
+Author-Name-Last: Quintana-Domeque
+Author-Workplace-Name: Department of Economics, University of Exeter
+Title: Criminalising Non-Fatal Strangulation in the United Kingdom: Comparative Legal Analysis and Early Evidence on Intimate Partner Homicides
+Abstract: This article examines how non-fatal strangulation and suffocation (NFS) is criminalised across United Kingdom jurisdictions and whether the introduction of a standalone NFS offence in England and Wales is associated with changes in intimate partner homicide (IPH). Its principal contribution is comparative and legal: it shows how England and Wales, Northern Ireland, and Scotland differ in defining, charging, and proving NFS-type conduct. The article then uses a jurisdiction-year panel for England and Wales and Scotland to estimate an exploratory difference-in-differences specification of IPH counts and rates following the June 2022 reform in England and Wales. Descriptive patterns suggest a relative post-reform decline in female-victim IPH counts in England and Wales, but inference is limited by the two-jurisdiction comparison, short post-reform window, rare-event volatility, and pre-trend concerns. The quantitative analysis is therefore best understood as an exploratory extension that identifies hypothesis-consistent patterns rather than clear causal evidence.
+Creation-Date: 2026-05-05
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2604.pdf
+File-Format: Application/pdf
+Number: 2604
+Classification-JEL: K14, K42, J12, J16, I18
+Keywords: non-fatal strangulation, intimate partner violence, intimate partner homicide, domestic abuse law, offence design
+Handle: RePEc:exe:wpaper:2604
