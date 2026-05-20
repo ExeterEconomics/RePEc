@@ -881,14 +881,14 @@ Author-Name-First: Climent
 Author-Name-Last: Quintana-Domeque
 Author-Workplace-Name: Department of Economics, University of Exeter
 Title: Disrupting Violence, Protecting Lives: Strangulation Laws and Intimate Partner Homicides
-Abstract: Non-fatal strangulation (NFS) is a dangerous form of intimate partner violence (IPV) and a strong predictor of homicide. We compile data on state NFS statutes in the United States and link them to FBI Supplementary Homicide Reports from 1990 to 2019 to estimate their causal effects on intimate partner homicide (IPH) rates. Using a two-stage difference-in-differences estimator that accommodates staggered adoption and heterogeneous treatment effects, we find that, NFS laws reduce female-victim IPH rates by 14% and male-victim IPH rates by 27%, among those aged 18-49, with no detectable effects for victims aged 50–70 or for homicides committed by strangers. Event-study estimates show flat pre-trends and sustained declines following enactment of NFS laws. Using National Incident-Based Reporting System (NIBRS) data and the same identification strategy, we show that NFS laws increase the share of reported IPV incidents that are classified as aggravated assault among female victims aged 18-49 - the most exposed to NFS - and the share of aggravated assaults that result in an arrest for both male and female victims aged 18-49. Our estimates are consistent with NFS laws strengthening the criminal justice response to life-threatening IPV and helping to prevent homicides.
+Abstract: Non-fatal strangulation (NFS) is a form of intimate partner violence (IPV) and a strong predictor of intimate partner homicide (IPH). We compile NFS statute data, link them to homicide reports, 1990-2019, and estimate effects on IPH using a two-stage difference-in-differences estimator for staggered adoption and heterogeneous effects. NFS laws reduce IPH for ages 18-49, by 0.169 female-victim homicides per 100,000 women and 0.090 male-victim homicides per 100,000 men. We find no effects on IPH for ages 50-70 or on stranger-perpetrated homicides. Evidence from reported IPV incidents is suggestive of changes in reported incident classification and arrest patterns.
 Creation-Date: 2025-06-27
-Revision-Date: 2025-12-03
+Revision-Date: 2026-05-20
 File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2501.pdf
 File-Format: Application/pdf
 Number: 2501
 Classification-JEL: C21, I18, J12, J16, J78, K14, K42, N92
-Keywords: abuse, assaults, arrests, criminal justice policy, gender, intimate partner violence
+Keywords: criminal justice, domestic abuse, gender, intimate partner violence
 Handle: RePEc:exe:wpaper:2501
 
 Template-Type: ReDIF-Paper 1.0
@@ -916,7 +916,7 @@ Author-Name-First: Itzchak Tzachi
 Author-Name-Last: Raz
 Author-Workplace-Name: Department of Economics, Hebrew University of Jerusalem
 Title: Doux Commerce: Markets, Culture, and Cooperation in 1850-1920 U.S.
-Abstract: We study how rising market integration shaped cooperative culture and behavior in the 1850–1920 United States. Leveraging plausibly exogenous changes in county-level market access driven by railroad expansion and population growth, we show that increased market access fostered universalism, tolerance, and generalized trust—traits supporting cooperation with strangers—and shifted cooperation away from kin-based ties toward more generalized forms. Individual-level analyses of migrants reveal rapid cultural adaptation after moving to more market-integrated places, especially among those exposed to commerce. These effects are unlikely to be explained by changes in population diversity, economic development, access to information, or legal institutions.
+Abstract: We study how rising market integration shaped cooperative culture and behavior in the 1850-1920 United States. Leveraging plausibly exogenous changes in county-level market access driven by railroad expansion and population growth, we show that increased market access fostered universalism, tolerance, and generalized trust—traits supporting cooperation with strangers—and shifted cooperation away from kin-based ties toward more generalized forms. Individual-level analyses of migrants reveal rapid cultural adaptation after moving to more market-integrated places, especially among those exposed to commerce. These effects are unlikely to be explained by changes in population diversity, economic development, access to information, or legal institutions.
 Creation-Date: 2025-07-06
 File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2503.pdf
 File-Format: Application/pdf
