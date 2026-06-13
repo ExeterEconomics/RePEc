@@ -1040,3 +1040,60 @@ Number: 2605
 Classification-JEL: A22, A13, B41, P16, I23
 Keywords: economics education, political economy of AI, algorithmic power, pluralism in economics, moral judgment, heterodox economics, higher education governance, assessment reform
 Handle: RePEc:exe:wpaper:2605
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Olayinka Oyekola
+Author-Name-First: Olayinka
+Author-Name-Last: Oyekola
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Mingyuan Chen
+Author-Name-First: Mingyuan
+Author-Name-Last: Chen
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Diego Morris
+Author-Name-First: Diego
+Author-Name-Last: Morris
+Author-Workplace-Name: Department of Management, University of Birmingham
+Title: Decarbonization or Carbon Outsourcing? The Effect of Commodity Price Movements Across Industries
+Abstract: Using a panel of nine manufacturing industries in 43 economies over the period 1990-2015, we examine how international commodity price movements affect carbon emissions across industries. We find that commodity price movements are associated with larger reductions in emissions intensity in physical-capital-intensive industries, whereas the emissions response does not vary systematically with human capital intensity. The results are economically meaningful and robust. The evidence points to cross-industry reallocation as the dominant adjustment channel, with commodity price movements associated with lower value-added growth in physical-capital-intensive industries, whereas the evidence for within-industry emissions-efficiency improvements is weaker. We further show that industries experiencing larger declines in domestic emissions intensity also exhibit larger increases in emissions embodied in imports, suggesting some relocation of emissions-intensive production across borders. Overall, commodity price movements appear to support domestic decarbonization while raising concerns about carbon outsourcing.
+Creation-Date: 2026-06-08
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2606.pdf
+File-Format: Application/pdf
+Number: 2606
+Classification-JEL: F18, L60, O13, Q43, Q56
+Keywords: commodity prices, carbon emissions, physical capital intensity, industrial reallocation, decarbonization, carbon outsourcing
+Handle: RePEc:exe:wpaper:2606
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Olayinka Oyekola
+Author-Name-First: Olayinka
+Author-Name-Last: Oyekola
+Author-Workplace-Name: Department of Economics, University of Exeter
+Title: Work Under Attack: Terrorism and Local Labor Markets
+Abstract: How does terrorism affect labor markets in developing countries? We combine georeferenced data on terrorist incidents with nationally representative employment data from Nigeria to examine this question. Exploiting within-location variation in exposure to terrorist attacks over time, we show that terrorism reduces employment. A one standard deviation increase in exposure lowers the probability of employment by 0.7 percentage points, or roughly 1 percent of average employment, with substantially larger effects for women. Beyond reducing employment, terrorism shifts workers away from regular and cash-paying jobs and lowers employment in sales, services, and unskilled manual occupations. The findings identify labor market disruption as an important economic cost of insecurity in developing countries.
+Creation-Date: 2026-06-08
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2606.pdf
+File-Format: Application/pdf
+Number: 2607
+Classification-JEL: D74, J21, J22, J23, J46, O12
+Keywords: terrorism, employment, labor markets, gender, Nigeria
+Handle: RePEc:exe:wpaper:2607
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Olayinka Oyekola
+Author-Name-First: Olayinka
+Author-Name-Last: Oyekola
+Author-Workplace-Name: Department of Economics, University of Exeter
+Author-Name: Olabambo Oluwasuji
+Author-Name-First: Olabambo
+Author-Name-Last: Oluwasuji
+Author-Workplace-Name: Cabinet Office, Glasgow
+Title: Resource Windfalls and the Accumulation of Productive Capabilities
+Abstract: Can resource windfalls explain the accumulation of productive capabilities? We examine this question using a panel of 140 countries over the period 1995-2023, leveraging plausibly exogenous variation in international commodity prices through countries' predetermined net export structures. We find that resource windfalls have a robust negative effect on productive capabilities. Using our preferred dynamic specifications, a one-standard-deviation increase in resource windfalls is associated with a long-run decline in productive capabilities of approximately 0.10 standard deviations. Beyond the average effect, we document substantial heterogeneity across countries. The adverse effects are concentrated among lower-income and initially less sophisticated economies, while richer and more sophisticated economies exhibit greater resilience to resource windfalls. We also provide evidence suggesting that resource windfalls alter the composition of investment in ways that contribute relatively little to capability accumulation. Our findings suggest that resource windfalls may hinder structural transformation by slowing the accumulation of productive capabilities.
+Creation-Date: 2026-06-08
+File-URL: https://exetereconomics.github.io/RePEc/dpapers/DP2606.pdf
+File-Format: Application/pdf
+Number: 2608
+Classification-JEL: F43, O11, O13, O14, O30, Q32
+Keywords: resource windfalls, productive capabilities, structural transformation, economic development, commodity prices
+Handle: RePEc:exe:wpaper:2608
